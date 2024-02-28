@@ -19,6 +19,6 @@
 
 <h3 align="left"> GitHub Stats 📊 </h3>
 
-![](https://github-readme-stats.vercel.app/api?username=codewithjessica&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithjessica&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=codewithjessica&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false"/>
+<img alt="top langs" align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithjessica&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
