@@ -7,7 +7,7 @@
 
 👩🏻‍💻 A passionate software developer from Toronto </br>
 👩🏻‍🎓 Studied [Cognitive science](https://www.uc.utoronto.ca/cognitive-science) at University of Toronto <br/>
-🧠 Currently learning about React, APIs, Typescript, Bootstrap at [Cantek](https://www.cantekcanada.com/web-d-d)</br>
+🧠 Learning about React, APIs, Typescript, Bootstrap at [Cantek](https://www.cantekcanada.com/web-d-d)</br>
 
 </div>
 
